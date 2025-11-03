@@ -715,6 +715,7 @@ texterea {
     gap: 2rem;
     flex-wrap: wrap;
     justify-content: center;
+    pointer-events: auto;
 }
 
 .social-icon {
